@@ -1,0 +1,35 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com"
+        },
+        "jhipsterVersion": "5.8.0",
+        "applicationType": "monolith",
+        "baseName": "testJava",
+        "packageName": "com",
+        "packageFolder": "com",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "mysql",
+        "prodDatabaseType": "mysql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": "eureka",
+        "buildTool": "gradle",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "NDc0M2ZjM2Y0NmNmY2Y0ZDQ1YTBhYmQ1MjdkNTgwMzMxOTMyZGE0NzhmYzY2NGE5NjY2ZDMyYmQzZDhhMTE5OWIzYWI2YWU2NDVkNGI4MWExNTQ5N2I0NDk3MzQ1NDBkODk5MTQ2M2E3YjQ4YjNiNGUyYzU1MWRhZmU2MjRlNzQ=",
+        "clientFramework": "angularX",
+        "useSass": true,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "entitySuffix": "",
+        "dtoSuffix": "DTO",
+        "otherModules": [],
+        "enableTranslation": false
+    }
+}
